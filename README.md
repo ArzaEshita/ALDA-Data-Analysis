@@ -13,7 +13,6 @@
 The significance of the impact of food on health is evident from the prominent saying "An apple a day keeps the doctor away". Food, water and shelter are considered to be the basic necessities for human sustenance. The quality of the food we eat, the water we drink and the environment we live in impacts the quality of our health. If we lack in any of these attributes the consequences of it are seen on our health and this is evident from prior research work performed in the field. Taking into consideration, the current unprecedented times the necessity to understand the correlation between these factors at a deeper level has been the need of the hour to improve global health. Hence, through this project, we aim to explore the impact of nutrition, water quality and sanitation data on country wise disease burden across the globe.
 
 ## Repository Structure
-The documentation of the project can be read from https://pages.github.ncsu.edu/CSC522-ALDA-H3/FallProject/ 
 
 The repository consist of all the python classes used to develop the project
 ```
